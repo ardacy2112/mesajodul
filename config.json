@@ -1,0 +1,12 @@
+{
+    "bot": {
+        "token": "token"
+    },
+    "settings": {
+        "kazandiği_odul": "Discord Bot",
+        "discord_sunucusu": "https://discord.gg/altyapilar",
+        "mesaj_sayisi": 50,
+        "odul_log": "ödül_log_kanal_id",
+        "yetkili_rol_id": ""
+    }
+}
